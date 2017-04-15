@@ -1,0 +1,23 @@
+{
+  "name": "datalogreportfunction",
+  "version": "1.0.0",
+  "description": "Data Log Report Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "data",
+    "log",
+    "alexa",
+    "skill"
+  ],
+  "author": "Onno Bos",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.16.0",
+    "json2csv": "^3.7.3",
+    "mocha": "^3.2.0",
+    "node.extend": "^1.1.6"
+  }
+}

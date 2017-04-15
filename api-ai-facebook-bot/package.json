@@ -1,0 +1,15 @@
+{
+  "name": "api-ai-facebook-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "databasebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onno Bos",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "uuid": "^3.0.1"
+  }
+}

@@ -1,0 +1,11 @@
+{"intents": [
+    {"intent": "RecordIntent", 
+    	"slots": [
+    		{"name" : "ActivityType", "type": "ACTIVITY_TYPES"}, 
+    		{"name" : "Activity", "type": "ACTIVITIES"}]
+    },
+    {"intent": "AMAZON.HelpIntent"},
+    {"intent": "AMAZON.CancelIntent"},
+    {"intent": "AMAZON.StopIntent"}
+  ]
+}

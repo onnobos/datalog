@@ -1,0 +1,24 @@
+{
+  "name": "datalog",
+  "version": "1.0.0",
+  "description": "Alexa Data Log Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Alexa",
+    "Service"
+  ],
+  "author": "Onno Bos",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.2.0",
+    "moment": "^2.17.1",
+    "node-uuid": "^1.4.7",
+    "request": "^2.81.0"
+  }
+}

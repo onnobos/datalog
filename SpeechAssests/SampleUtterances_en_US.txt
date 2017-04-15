@@ -1,0 +1,4 @@
+RecordIntent add {activity} as an {ActivityType}
+RecordIntent record {activity} as an {ActivityType}
+RecordIntent save {activity} as an {ActivityType}
+RecordIntent add {ActivityType} {ActivityType}
